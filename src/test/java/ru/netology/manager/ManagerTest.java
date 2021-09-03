@@ -58,8 +58,6 @@ public class ManagerTest {
         assertArrayEquals(expected, actual);
     }
 
-
-
 }
 
 
